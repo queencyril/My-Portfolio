@@ -21,10 +21,14 @@ const Works = () => {
         </span>
 
         <div className="workImgs">
-          <img src={Folio3} alt="" className="workImg" />
-          <img src={Folio1} alt="" className="workImg" />
+          {[Folio3, Folio1, Folio4, Folio2].map((item) => (
+            <div className="workImg-div">
+              <img src={item} alt="" className="workImg" />
+            </div>
+          ))}
+          {/* <img src={Folio1} alt="" className="workImg" />
           <img src={Folio4} alt="" className="workImg" />
-          <img src={Folio2} alt="" className="workImg" />
+          <img src={Folio2} alt="" className="workImg" /> */}
         </div>
 
         <button className="workBtn">See More...</button>
