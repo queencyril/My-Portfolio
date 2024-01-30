@@ -11,8 +11,7 @@ const Skills = () => {
         </span>
         <span className="skillDesc">
           Hello Again!!!, My name is{" "}
-          <span className="text">Iheagwara Oluchi Queen</span>. I'm 24years old
-          and I'm thrilled to introduce myself as an upcoming frontend developer
+          <span className="text">Iheagwara Oluchi Queen</span>. I'm thrilled to introduce myself as a frontend developer
           on a mission to create visually stunning and user-friendly web
           experiences. My passion for coding and design has led me to pursue a
           career in the exciting world of web development, where I strive to

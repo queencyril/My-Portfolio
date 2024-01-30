@@ -1,6 +1,6 @@
 import React from "react";
 import "./into.css";
-import bgPic from "../../assets/bgPics.PNG";
+import bgPic from "../../assets/bgPic.jpeg";
 import { Link } from "react-scroll";
 import phone from "../../assets/phone.svg";
 
