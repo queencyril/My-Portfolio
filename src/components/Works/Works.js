@@ -18,8 +18,7 @@ const Works = () => {
         </h2>
         <span className="workDesc">
           {" "}
-          Here are a few private projects and assignments I've worked on during
-          my time spent at AltSchool of Engineering so far...
+          Here are a few deployed projects and assignments I've worked on so far...
         </span>
 
         <div className="workImgs">

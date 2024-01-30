@@ -45,7 +45,7 @@ const Cv = () => {
             <div className="skillBarText">
               <h2>Lekki Gardens</h2>
               <p>Sept 2023 - Present (Lagos)</p>
-              <h3>Job Description: Receptionist</h3><br/>
+              <h3>Job Description: Administrator's Assistant</h3><br/>
 
               <p>
                 -Greeting visitors, helping them navigate through an office, and
@@ -82,7 +82,7 @@ const Cv = () => {
             <div className="skillBarText">
               <h2>China Brain Field Academy</h2>
               <p>Nov 2021 - Oct 2022 (Asaba)</p>
-              <h3>Job Description: Classroom Teacher(NYSC)</h3><br/>
+              <h3>Job Description: I.T.C Classroom Teacher(NYSC)</h3><br/>
               <p>
                 -Classroom Management <br />
                 -Preparing lesson plans and notes <br />
