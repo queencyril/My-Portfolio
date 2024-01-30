@@ -122,4 +122,7 @@
   .skillBarText > h2 {
     font-size: 5vw;
   }
+  .cvIntro{
+    margin-left: -10rem;
+  }
 }

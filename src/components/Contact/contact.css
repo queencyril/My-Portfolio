@@ -68,3 +68,14 @@
         width: 6rem ;
         margin-top: 4rem;
     }
+
+
+    
+@media screen and (max-width: 585px) {
+    .contactPage{
+        margin-top: -5rem;
+    }
+    .submitBtn{
+        color: black;
+    }
+  }
