@@ -1,6 +1,6 @@
 import React from "react";
 import "./skills.css";
-import Emoji from "../../assets/emoji.jpg";
+import Emoji from "../../assets/emoji2.jpeg";
 
 const Skills = () => {
   return (
