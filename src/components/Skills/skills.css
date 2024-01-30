@@ -42,4 +42,20 @@
         
     }
 
+    
+@media screen and (max-width: 585px) {
+    .emoji{
+        opacity: 0.2;
+        border-radius: 0;
+        top: 8rem;
+            
+        }
+
+        .skillDesc{
+            width: 100%;
+            max-width: 100%;
+            margin: 0 ;
+        }
+    
+  }
 
