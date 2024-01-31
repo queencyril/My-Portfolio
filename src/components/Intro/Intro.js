@@ -16,7 +16,7 @@ const Intro = () => {
             Frontend Developer
           </span>
           <p className="introPara">
-            I am a frontend developer with experience in creating visually
+            I am a frontend developer with experience in creating visually <br/>
             appealing and user friendly interfaces.
           </p>
 
