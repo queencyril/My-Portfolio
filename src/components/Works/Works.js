@@ -1,7 +1,7 @@
 import React from "react";
 import "./works.css";
-import Folio1 from "../../assets/folio1.PNG";
-import Folio2 from "../../assets/folio2.PNG";
+import Folio1 from "../../assets/YemYemSnackStore.png";
+import Folio2 from "../../assets/CareFinder.png";
 import Folio3 from "../../assets/folio3.PNG";
 import Folio4 from "../../assets/folio4.PNG";
 import FolioImg from "../../assets/portfolioImg.webp";
@@ -36,11 +36,11 @@ const Works = () => {
             <img src={Folio4} alt="" className="workImg" />
           </a>
 
-          <a href="https://gleaming-heliotrope-51f6ca.netlify.app/" target="blank">
+          <a href="https://animated-brioche-c7fa5d.netlify.app/" target="blank">
           <img src={Folio1} alt="" className="workImg" />
           </a>
 
-          <a href="https://quiet-kashata-41bba7.netlify.app/" target="blank">
+          <a href="https://sprightly-cuchufli-79b996.netlify.app/" target="blank">
           <img src={Folio2} alt="" className="workImg" />
            </a>
 
